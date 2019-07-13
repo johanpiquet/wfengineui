@@ -1,0 +1,12 @@
+# Compiler les resources
+
+  > Pour le dév (watch + serveur intégré)
+    npm run dev
+
+  > Avec surveillance des changements
+    npm run watch
+
+  > Pour la production
+    npm run build
+
+  !!! Possibilité de le faire aussi avec la toolbar npm à gauche !!!
