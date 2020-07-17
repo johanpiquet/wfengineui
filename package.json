@@ -33,7 +33,7 @@
   "dependencies": {
     "atomicjs": "^4.4.0",
     "less": "^3.9.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "semantic-ui-css": "^2.4.1",
